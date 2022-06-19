@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HPSRJ
+- 👋 Hi, I’m SOORAJ
 - 👀 I’m interested in games
 - 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 8970889647
 
 <!---
